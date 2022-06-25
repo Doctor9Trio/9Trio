@@ -177,8 +177,8 @@ nav .fa{
 
 
 
-/*-----eperience------*/
-.eperience{
+/*-----experience------*/
+.experience{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -201,7 +201,7 @@ p{
     display: flex;
     justify-content: space-between;
 }
-.eperience-col{
+.experience-col{
     flex-basis: 31%;
     background: #fff3f3;
     border-radius: 10px;
@@ -215,7 +215,7 @@ h3{
     font-weight: 800;
     margin: 10px 0; 
 }
-.eperience-col:hover{
+.experience-col:hover{
     box-shadow: 0 0 20px 2px rgba(0,0,0,0.2);
 }  
  
